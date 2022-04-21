@@ -3,7 +3,7 @@ For documentation of different layers, please refer to torch.nn
 https://pytorch.org/docs/stable/nn.html
 """
 
-from turtle import forward
+# from turtle import forward
 from matplotlib.axis import YAxis
 
 from numpy import argmax
